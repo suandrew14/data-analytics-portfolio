@@ -3,7 +3,7 @@ Portfolio of data analytics projects
 
 **Project 1. Sales and Profit review** 
 
-An interactive filter-based Tableau workbook that visualises a sales dataset in the US with data pulled from:
+An interactive filter-based Tableau workbook that visualises a sales dataset from the US, with data pulled from:
 
 https://www.kaggle.com/datasets/shantanugarg274/sales-dataset
 
